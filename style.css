@@ -33,7 +33,10 @@ body {
   width: 290px;
   border-radius: 10px;
   background-color: var(--Grey-800);
-  padding: 1.5rem;
+  padding: 2rem;
+}
+.profile{
+    padding-top: 1rem;
 }
 .avatar {
   border-radius: 50%;
@@ -51,7 +54,7 @@ body {
 }
 .designation {
   color: var(--White);
-  font-size: 0.75rem;
+  font-size: 14px;
   font-weight: 400;
   margin-bottom: 1.5rem;
 }
@@ -61,11 +64,11 @@ body {
   color: var(--White);
   align-content: center;
   text-align: center;
-  padding-block: 8px;
+  padding-block: 1rem;
   background-color: var(--Grey-700);
   margin-bottom: 0.75rem;
   border-radius: 5px;
-  font-size: 0.75rem;
+  font-size: 14px;
   font-weight: 700;
   cursor: pointer;
   border: none;
